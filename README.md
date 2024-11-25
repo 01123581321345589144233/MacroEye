@@ -1,0 +1,1 @@
+- Projeto experimental programado em Golang que descobre e grava dados acerca de todos os servidores de minecraft de um país.
